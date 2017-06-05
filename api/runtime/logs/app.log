@@ -1,0 +1,1216 @@
+2017-05-19 09:44:11 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-19 09:44:11 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    'advanced-frontend' => 'prsa4i724e9kd13i6rmtvs8p77'
+    '_csrf-frontend' => '303265876fed6a4024102ae3037afc100df1b4b702568661b178a93b0d95c06ca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"HwfbynaKCb52b0nrqKjW_MeBm2pn6U2N\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WR6iS2UF2PMAAA@5x0cAAAAH'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/advanced/api/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; advanced-frontend=prsa4i724e9kd13i6rmtvs8p77; _csrf-frontend=303265876fed6a4024102ae3037afc100df1b4b702568661b178a93b0d95c06ca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22HwfbynaKCb52b0nrqKjW_MeBm2pn6U2N%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '53137'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495179851.28
+    'REQUEST_TIME' => 1495179851
+]
+2017-05-19 10:23:11 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-19 10:23:10 [::1][-][-][info][application] $_SERVER = [
+    'UNIQUE_ID' => 'WR6rbmUF2PMAABq5qXsAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 wechatdevtools/6.5.6 MicroMessenger/{{version}} Language/zh_CN webview/0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '56687'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495182190.979
+    'REQUEST_TIME' => 1495182190
+]
+2017-05-19 10:24:36 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-19 10:24:36 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    'advanced-frontend' => 'prsa4i724e9kd13i6rmtvs8p77'
+    '_csrf-frontend' => '303265876fed6a4024102ae3037afc100df1b4b702568661b178a93b0d95c06ca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"HwfbynaKCb52b0nrqKjW_MeBm2pn6U2N\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WR6rxGUF2PMAAA@5x1AAAAAH'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/advanced/api/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; advanced-frontend=prsa4i724e9kd13i6rmtvs8p77; _csrf-frontend=303265876fed6a4024102ae3037afc100df1b4b702568661b178a93b0d95c06ca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22HwfbynaKCb52b0nrqKjW_MeBm2pn6U2N%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '56977'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495182276.827
+    'REQUEST_TIME' => 1495182276
+]
+2017-05-19 10:42:29 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-19 10:42:29 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    'advanced-frontend' => 'prsa4i724e9kd13i6rmtvs8p77'
+    '_csrf-frontend' => '303265876fed6a4024102ae3037afc100df1b4b702568661b178a93b0d95c06ca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"HwfbynaKCb52b0nrqKjW_MeBm2pn6U2N\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WR6v9WUF2PMAACLn2rcAAAAJ'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; advanced-frontend=prsa4i724e9kd13i6rmtvs8p77; _csrf-frontend=303265876fed6a4024102ae3037afc100df1b4b702568661b178a93b0d95c06ca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22HwfbynaKCb52b0nrqKjW_MeBm2pn6U2N%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '61059'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495183349.09
+    'REQUEST_TIME' => 1495183349
+]
+2017-05-21 15:16:40 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:16:40 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGTOGUF2PMAAGPnrNEAAAAB'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '53854'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/index.php'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495372600.537
+    'REQUEST_TIME' => 1495372600
+]
+2017-05-21 15:18:32 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:18:32 [::1][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGTqGUF2PMAAGLwm@4AAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '53874'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site/index'
+    'REQUEST_URI' => '/advanced/api/web/index.php?r=site/index'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495372712.807
+    'REQUEST_TIME' => 1495372712
+]
+2017-05-21 15:18:51 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:18:50 [::1][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGTumUF2PMAADva7VsAAAAC'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '53882'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2findex'
+    'REQUEST_URI' => '/advanced/api/web/index.php?r=site%2findex'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495372730.969
+    'REQUEST_TIME' => 1495372730
+]
+2017-05-21 15:18:56 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:18:56 [::1][-][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGTwGUF2PMAADpo8aQAAAAI'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '53883'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/advanced/api/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495372736.221
+    'REQUEST_TIME' => 1495372736
+]
+2017-05-21 15:19:13 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:19:13 [::1][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGT0WUF2PMAAGLwm-AAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '53893'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'REQUEST_URI' => '/advanced/api/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495372753.392
+    'REQUEST_TIME' => 1495372753
+]
+2017-05-21 15:21:46 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:21:46 [::1][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGUamUF2PMAAGWN0XsAAAAF'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '53920'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'REQUEST_URI' => '/advanced/api/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495372906.582
+    'REQUEST_TIME' => 1495372906
+]
+2017-05-21 15:21:49 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:21:49 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGUbWUF2PMAAGWN0X4AAAAF'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '53920'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/index.php'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495372909.624
+    'REQUEST_TIME' => 1495372909
+]
+2017-05-21 15:28:53 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:28:53 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGWFWUF2PMAAA8WiM0AAAAK'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54067'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/index.php'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495373333.815
+    'REQUEST_TIME' => 1495373333
+]
+2017-05-21 15:30:00 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:30:00 [::1][-][-][info][application] $_GET = [
+    'r' => 'gii'
+]
+
+$_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGWWGUF2PMAABQtaIYAAAAA'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54081'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=gii'
+    'REQUEST_URI' => '/advanced/api/web/index.php?r=gii'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495373400.727
+    'REQUEST_TIME' => 1495373400
+]
+2017-05-21 15:34:12 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:34:12 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGXVGUF2PMAAA8WiNEAAAAK'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54149'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/index.php'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495373652.451
+    'REQUEST_TIME' => 1495373652
+]
+2017-05-21 15:41:53 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:41:53 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGZIWUF2PMAAGqD468AAAAD'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54222'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/index.php'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495374113.094
+    'REQUEST_TIME' => 1495374113
+]
+2017-05-21 15:46:33 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:46:33 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGaOWUF2PMAAGLwm-QAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54329'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/index.php'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495374393.739
+    'REQUEST_TIME' => 1495374393
+]
+2017-05-21 15:46:35 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:46:35 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-backend' => 'tkf0l0tkqtdbmi7649gk5c7uo2'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-backend' => '499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba:2:{i:0;s:17:\"_identity-backend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGaO2UF2PMAAGLwm-cAAAAE'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-backend=tkf0l0tkqtdbmi7649gk5c7uo2; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-backend=499ac4405222349bbece0d161ed99aa7791382a98f18530572bf44e5c05b2d3ba%3A2%3A%7Bi%3A0%3Bs%3A17%3A%22_identity-backend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54329'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/index.php'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495374395.648
+    'REQUEST_TIME' => 1495374395
+]
+2017-05-21 15:56:23 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:56:23 [::1][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    'advanced-backend' => 'luevo2h9ao9mufpcnulaaou990'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGch2UF2PMAADpo8agAAAAI'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; advanced-backend=luevo2h9ao9mufpcnulaaou990'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54530'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'REQUEST_URI' => '/advanced/api/web/index.php?r=site%2Fabout'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495374983.815
+    'REQUEST_TIME' => 1495374983
+]
+2017-05-21 15:56:27 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 15:56:27 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    'advanced-backend' => 'luevo2h9ao9mufpcnulaaou990'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGci2UF2PMAADpo8aoAAAAI'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; advanced-backend=luevo2h9ao9mufpcnulaaou990'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54530'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/index.php'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495374987.704
+    'REQUEST_TIME' => 1495374987
+]
+2017-05-21 16:14:23 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 16:14:23 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    'advanced-backend' => 'luevo2h9ao9mufpcnulaaou990'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGgv2UF2PMAAG6j6WMAAAAJ'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; advanced-backend=luevo2h9ao9mufpcnulaaou990'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54838'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495376063.138
+    'REQUEST_TIME' => 1495376063
+]
+2017-05-21 16:14:30 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 16:14:30 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    'advanced-backend' => 'luevo2h9ao9mufpcnulaaou990'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGgxmUF2PMAAG6j6WYAAAAJ'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_REFERER' => 'http://localhost/advanced/api/web/debug/default/view?panel=log&tag=5921a0bf2a5ca'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; advanced-backend=luevo2h9ao9mufpcnulaaou990'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54838'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495376070.384
+    'REQUEST_TIME' => 1495376070
+]
+2017-05-21 16:14:36 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Request.php:193
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/web/Application.php(82): yii\web\Request->resolve()
+#1 /Applications/XAMPP/xamppfiles/htdocs/advanced/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php(18): yii\base\Application->run()
+#3 {main}
+2017-05-21 16:14:36 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1474681787.1484655150'
+    '__atuvc' => '3|20'
+    '_csrf' => 'd02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_\";}'
+    '_csrf-frontend' => 'dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"6tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN\";}'
+    '_csrf-backend' => '4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a:2:{i:0;s:13:\"_csrf-backend\";i:1;s:32:\"A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW\";}'
+    'advanced-frontend' => '25v0o40an9gnl6sbp4gv6iud26'
+    '_identity-frontend' => '223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[1,\"QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y\",2592000]\";}'
+    'advanced-backend' => 'luevo2h9ao9mufpcnulaaou990'
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WSGgzGUF2PMAADpo8bEAAAAI'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4,ja;q=0.2,ru;q=0.2'
+    'HTTP_COOKIE' => '_ga=GA1.1.1474681787.1484655150; __atuvc=3%7C20; _csrf=d02ea52a6b7295926337bf1f1bcf1ea028e5c8b3fc019bfc81d197a3e829f51fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22CLEWGmY2EtFzTXo0JYR2rQ-uXUFmTHx_%22%3B%7D; _csrf-frontend=dd557552f276c8462d383160fed19ea5c545cac0c77f8253ca5aa57e2bdf3b58a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%226tuy3ZB8_X8B77PqtP-RXaFmd9IsUonN%22%3B%7D; _csrf-backend=4458930269fdf231b1529010fd32a17074ba28246ed98500d233806e16833c07a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22A2Ry9b35rY6Q5aRFxPUoma6DaxzbTypW%22%3B%7D; advanced-frontend=25v0o40an9gnl6sbp4gv6iud26; _identity-frontend=223823aec02c0de53b9882020e67e5807655c688de43abadbc91f1464d8f2271a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B1%2C%22QzM1O4eCB8N89YIYFt-QKThbJiCrtX8Y%22%2C2592000%5D%22%3B%7D; advanced-backend=luevo2h9ao9mufpcnulaaou990'
+    'HTTP_RA_VER' => '6.12'
+    'HTTP_RA_SID' => '6a767220-c331-11e6-a82c-87a8c7aa5b26'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Unix) OpenSSL/1.0.2j PHP/5.6.30 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/advanced/api/web/index.php'
+    'REMOTE_PORT' => '54845'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/advanced/api/web/'
+    'SCRIPT_NAME' => '/advanced/api/web/index.php'
+    'PHP_SELF' => '/advanced/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1495376076.272
+    'REQUEST_TIME' => 1495376076
+]
